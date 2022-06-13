@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/advanced-menu-with-react/static/css/main.a3eaff80.css",
-    "main.js": "/advanced-menu-with-react/static/js/main.1a84ca6a.js",
-    "static/js/787.28cb0dcd.chunk.js": "/advanced-menu-with-react/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/advanced-menu-with-react/index.html",
-    "main.a3eaff80.css.map": "/advanced-menu-with-react/static/css/main.a3eaff80.css.map",
-    "main.1a84ca6a.js.map": "/advanced-menu-with-react/static/js/main.1a84ca6a.js.map",
-    "787.28cb0dcd.chunk.js.map": "/advanced-menu-with-react/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/advanced-menu-with-react-/static/css/main.a3eaff80.css",
+    "main.js": "/advanced-menu-with-react-/static/js/main.8dd8cb21.js",
+    "static/js/787.28cb0dcd.chunk.js": "/advanced-menu-with-react-/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/advanced-menu-with-react-/index.html",
+    "main.a3eaff80.css.map": "/advanced-menu-with-react-/static/css/main.a3eaff80.css.map",
+    "main.8dd8cb21.js.map": "/advanced-menu-with-react-/static/js/main.8dd8cb21.js.map",
+    "787.28cb0dcd.chunk.js.map": "/advanced-menu-with-react-/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3eaff80.css",
-    "static/js/main.1a84ca6a.js"
+    "static/js/main.8dd8cb21.js"
   ]
 }
